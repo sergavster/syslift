@@ -13,4 +13,4 @@ To define the product in the software (product definition):
   * Sum Assured per member/per family: This is a limit that should not be informed in case of a unlimited sum insured. (e.g.: Benefit = 5000+ 50% of premium paid).
   * Benefits Definition: each case is to be listed with its corresponding limit amount. (capital alone or capital + partial premium after 3 years or capital + partial premium after 6 years...)
 
-The claims management based on the time of the claim (e.g. if it varies after one year / 2 years...), or if it depends on the death type (natural/accidental)is manual and will require the claim settlement team to check / calculate before settling down a claim.
+The benefit evaluation based on the time of the claim (e.g. if it varies after one year / 2 years...), or if it depends on the death type (natural/accidental), or if it varies depending on the age of the beneficiary, is manual and will require the claim settlement team to check / calculate before settling down a claim.
